@@ -1,0 +1,19 @@
+{
+  "name": "fantasy-football-analysis",
+  "version": "1.0.0",
+  "description": "Analyze past player performance to find best starts each week",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brianrcoyle/fantasy-football-analysis.git"
+  },
+  "author": "Brian Coyle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brianrcoyle/fantasy-football-analysis/issues"
+  },
+  "homepage": "https://github.com/brianrcoyle/fantasy-football-analysis#readme"
+}
